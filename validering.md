@@ -6,3 +6,5 @@ Fixade padding från paddin
 La till en apostrof
 Tog bort font size 1
 Tog bort tom footer css
+Tog bort info från en rad i css
+Gav en title
